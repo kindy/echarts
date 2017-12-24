@@ -1,7 +1,10 @@
 /build
 /doc
 /index.html
+/index-en.html
+/test
+*.tgz
+bower.json
 
 npm-debug.log
-
 

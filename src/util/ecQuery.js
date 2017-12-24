@@ -6,7 +6,7 @@
  *
  */
 define(function(require) {
-    var zrUtil = require('zrender/tool/util');
+    var zrUtil = require('../zrender/tool/util');
     
     /**
      * 获取嵌套选项的基础方法
